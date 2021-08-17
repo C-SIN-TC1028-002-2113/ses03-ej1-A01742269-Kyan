@@ -4,7 +4,7 @@ def main():
     area = float(input("Area a pintar en metros: "))
     rendimiento = float(input("Rendimiento (m2/1): "))
     print = math.ceil(rendimiento/area)
-    print("Litros a comprar: ",pint)
+    print("Litros a comprar: ",1)
 
 if __name__ == '__main__':
     main()
